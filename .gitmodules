@@ -1,0 +1,3 @@
+[submodule "gestion_note/Gestion_Ecole"]
+	path = gestion_note/Gestion_Ecole
+	url = https://github.com/mvincentbb/Gestion_Ecole.git
