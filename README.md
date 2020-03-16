@@ -1,10 +1,14 @@
 # Gestion-scolarite-eleve
 Secondary  School Tuition and Student Management Application 
 
-## Deployement
-this project can be open with any kind of JAVA IDE  but we advice to use NETBEAN IDE
+## Language
+* Java
 
-## Requirement
+
+## Deployement
+This project can be open with any kind of JAVA IDE  but we advice to use NETBEAN IDE
+
+## Requirements
 
 * [Swing](https://docs.oracle.com/javase/tutorial/uiswing/) -  a GUI widget toolkit for Java
 * [Maven](https://maven.apache.org/) - Dependency Management
