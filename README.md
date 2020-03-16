@@ -16,7 +16,7 @@ This project can be open with any kind of JAVA IDE  but we advice to use NETBEAN
 
 
 ## Contributors
-* **Bakpatina Vincent**  - [mvincentbb](https://github.com/mvincentbb)
+* **Vincent Bakpatina**  - [mvincentbb](https://github.com/mvincentbb)
 * **Yakim Balakim**  - [yakim228](https://github.com/yakim228)
 * **Wisdom TOHE**  - [wisdomtohe](https://github.com/wisdomtohe)
 
