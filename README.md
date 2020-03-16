@@ -20,6 +20,9 @@ This project can be open with any kind of JAVA IDE  but we advice to use NETBEAN
 * **Yakim Balakim**  - [yakim228](https://github.com/yakim228)
 * **Wisdom TOHE**  - [wisdomtohe](https://github.com/wisdomtohe)
 
+## Supervisor
+this work was supervised by **Koffi Sani** -[koffisani](https://github.com/koffisani)
+
 
 
 
